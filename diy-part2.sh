@@ -12,5 +12,5 @@
 
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
-git clone https://github.com/maxlicheng/luci-app-ssr-plus.git package/ssrplus
-git clone https://github.com/Ameykyl/luci-app-koolproxyR package/koolproxyR
+git clone https://github.com/maxlicheng/luci-app-ssr-plus.git package/luci-app-ssr-plus
+git clone https://github.com/Ameykyl/luci-app-koolproxyR package/luci-app-koolproxyR
